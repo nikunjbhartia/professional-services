@@ -44,6 +44,10 @@ Now the environment is ready !
 * virtualenv: https://virtualenv.pypa.io/
 * Google Cloud SDK: https://cloud.google.com/sdk/
 
+## Tests 
+
+To run tests, execute `python -m unittest`
+
 ## Usage 
 
 ```
